@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Das</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Priyanka is a passionate backend developer from India working in Java for 3 years now.</h3>
 
 - 🤝 I’m looking for help with **Java & DSA**
 
