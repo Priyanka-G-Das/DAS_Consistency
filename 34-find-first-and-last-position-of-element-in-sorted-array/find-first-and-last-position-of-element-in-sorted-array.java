@@ -1,11 +1,11 @@
 class Solution {
     /*
-     * 1st pos
+     * 1st position
      * nums[i] >= target
      * f f f f t t t t
      * find 1st occ of true
      * 
-     * last pos
+     * last position
      * nums[i] <= target
      * t t t t f f f f
      * find last occ of true
